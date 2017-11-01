@@ -1,4 +1,6 @@
 ## Instlation 
+You should have python and postgreSQL On your machine.<br />
+then download newsdata.sql from udacity and run this command `psql -d news -f newsdata.sql` to add it to your database as `news` table <br />
 Fork this files using terminal <br />
 `$ git clone https://github.com/3zcs/log_analysis.git`<br />
 Then enter your folder <br />
