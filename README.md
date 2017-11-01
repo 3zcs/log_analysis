@@ -6,7 +6,7 @@ Then enter your folder <br />
 Install `psycopg2` module `pip install psycopg2`<br />
 
 ## Run project 
-Run this command in terminal and the analysis will be generated file named `report.py`<br />
+Run this command in terminal and the analysis will be printed `$ python report.py`<br />
 
 ## project structure
 **report.py** Script file connect and print analysis of log database <br />
